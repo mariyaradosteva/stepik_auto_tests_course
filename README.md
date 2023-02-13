@@ -1,3 +1,7 @@
-# stepik_auto_tests_course
-homework assignments
-stepik.org
+Программа first_script
+Отправка введенного решения
+
+
+
+
+
